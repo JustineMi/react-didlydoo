@@ -1,0 +1,16 @@
+/*
+	jsrepo 1.35.1
+	Installed from https://reactbits.dev/default/
+	12-02-2025
+*/
+
+.goo-filter-container {
+  position: relative;
+  overflow: hidden;
+  z-index: 1000;
+}
+
+.pixel-canvas {
+  position: relative;
+  z-index: 1000;
+}
